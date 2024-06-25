@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/pitlaHarsha)
 [![Linkedin: anmol](https://img.shields.io/badge/-harsha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pitlaharshavardhan)](https://www.linkedin.com/in/pitlaharshavardhan)
-[![GitHub followers](https://img.shields.io/github/followers/harsha665?label=Follow&style=social)](https://github.com/harsha665)
+[![GitHub followers](https://img.shields.io/github/followers/PitlaHarshaVardhan?label=Follow&style=social)](https://github.com/PitlaHarshaVardhan)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
